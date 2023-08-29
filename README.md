@@ -2,13 +2,14 @@
 - 👀 I’m interested in Game Development/Software Development
 - 🌱 I’m currently learning Software Engineering
 - Programming Languages:
-  - Well Known:
+  - Well Versed:
     - Java
     - C
   - Currently Learning:
     - JavaScript
     - Python
     - C++
+    - C#
 - 📫 How to reach me: arielstarling25@gmail.com
 
 <!---
