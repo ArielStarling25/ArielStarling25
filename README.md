@@ -5,11 +5,11 @@
   - Well Versed:
     - Java
     - C
+    - C#
   - Currently Learning:
     - JavaScript
     - Python
     - C++
-    - C#
 - 📫 How to reach me: arielstarling25@gmail.com
 
 <!---
