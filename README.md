@@ -10,6 +10,7 @@
     - JavaScript
     - Python
     - C++
+    - PHP
 - 📫 How to reach me: arielstarling25@gmail.com
 
 <!---
