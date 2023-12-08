@@ -1,16 +1,20 @@
-- 👋 Hi, I’m @ArielStarling25
-- 👀 I’m interested in Game Development/Software Development/Software Architecture
-- 🌱 I’m currently learning Software Engineering
-- Programming Languages:
+- 👋 Greetings, I’m @ArielStarling25
+- 👀 I’m interested in the fields of Game Development/Software Development/Software Architecture
+- 🌱 I’m currently a university student taking a Bachelor of Computing Degree (Software)
+- 🤖 Programming Languages:
   - Well Versed:
     - Java
-    - C
     - C#
+  - Intemediate:
+    - C
   - Currently Learning:
     - JavaScript
     - Python
     - C++
     - PHP
+    - HTML (Not a programming language 🤓)
+    - CSS
+      
 - 🥇 I firmly believe in the concept of being a lifelong learner where every oppurtunity taken to learn something new, either through failure or success, will carry you head strong through any obstacle.
 - 🗣️ Favorite Quote: “Success is not final, failure is not fatal: it is the courage to continue that counts.” - Winston Churchill
   
