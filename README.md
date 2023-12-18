@@ -1,6 +1,6 @@
 - 👋 Greetings, I’m @ArielStarling25
 - 👀 I’m interested in the fields of Game Development/Software Development/Software Architecture
-- 🌱 I’m currently a university student taking a Bachelor of Computing Degree (Software)
+- 🌱 I’m currently a university student taking a Bachelor of Computing Degree (Software Engineering) under Curtin University Malaysia 👨‍🎓
 - 🤖 Programming Languages:
   - Well Versed:
     - Java
