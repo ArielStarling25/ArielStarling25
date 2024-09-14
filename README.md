@@ -5,7 +5,7 @@
   - Well Versed:
     - Java
     - C#
-  - Intemediate:
+  - Intermediate:
     - C
   - Currently Learning:
     - JavaScript
