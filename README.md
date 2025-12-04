@@ -1,18 +1,19 @@
 - 👋 Greetings, I’m @ArielStarling25
 - 👀 I’m interested in the fields of Game Development/Software Development/Software Architecture
-- 🌱 I’m currently a university graduand of a Bachelor of Computing Degree (Software Engineering) under Curtin University Malaysia 👨‍🎓
+- 🌱 I’m a university graduate of a Bachelor of Computing Degree (Software Engineering) under Curtin University Malaysia 👨‍🎓
+- 🌱 I'm currently undertaking Master of Philosophy in ECE under Curtin University Malaysia 👨‍🎓
 - 🤖 Programming Languages:
   - Well Versed:
     - Java
     - C#
+    - JavaScript
+    - Python
+    - HTML
   - Intermediate:
     - C
   - Currently Learning:
-    - JavaScript
-    - Python
     - C++
     - PHP
-    - HTML (Not a programming language 🤓)
     - CSS
       
 - 🥇 I firmly believe in the concept of being a lifelong learner where every oppurtunity taken to learn something new, either through failure or success, will carry you head strong through any obstacle.
